@@ -1,0 +1,10 @@
+mode: set
+github.com/Jayleonc/awesome/test/selection/selection.go:3.37,4.32 1 1
+github.com/Jayleonc/awesome/test/selection/selection.go:4.32,6.3 1 1
+github.com/Jayleonc/awesome/test/selection/selection.go:7.2,7.34 1 1
+github.com/Jayleonc/awesome/test/selection/selection.go:7.34,9.37 2 1
+github.com/Jayleonc/awesome/test/selection/selection.go:9.37,10.25 1 1
+github.com/Jayleonc/awesome/test/selection/selection.go:10.25,12.5 1 1
+github.com/Jayleonc/awesome/test/selection/selection.go:14.3,14.20 1 1
+github.com/Jayleonc/awesome/test/selection/selection.go:16.2,16.12 1 1
+github.com/Jayleonc/awesome/test/selection/selection.go:19.38,23.2 3 1

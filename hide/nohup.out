@@ -1,0 +1,80 @@
+
+程序是通过 nohup 方式启动的
+Enter password: 
+Password: 
+Enter password: 程序是通过 nohup 方式启动的
+
+Password: 123498jf18hasd
+
+./start.sh: line 3: 79518 Killed: 9               ./hide
+./start.sh: line 3: 80863 Killed: 9               ./hide
+./start.sh: line 3: 79284 Killed: 9               ./hide
+./start.sh: line 3: 79965 Killed: 9               ./hide
+./start.sh: line 3: 79408 Killed: 9               ./hide
+./start.sh: line 3: 79798 Killed: 9               ./hide
+./start.sh: line 3: 79308 Killed: 9               ./hide
+./start.sh: line 3: 79674 Killed: 9               ./hide
+./start.sh: line 3: 79754 Killed: 9               ./hide
+./start.sh: line 4: ��用户输入密码，且隐藏输入内容: command not found
+./start.sh: line 4: ��用户输入密码，且隐藏输入内容: command not found
+./start.sh: line 5: read: read error: 0: Input/output error
+./start.sh: line 5: read: read error: 0: Input/output error
+
+
+./start.sh: line 4: ��用户输入密码，且隐藏输入内容: command not found
+./start.sh: line 5: read: read error: 0: Input/output error
+
+./start.sh: line 4: ��用户输入密码，且隐藏输入内容: command not found
+./start.sh: line 5: read: read error: 0: Input/output error
+
+./start.sh: line 4: ��用户输入密码，且隐藏输入内容: command not found
+./start.sh: line 5: read: read error: 0: Input/output error
+
+./start.sh: line 4: ��用户输入密码，且隐藏输入内容: command not found
+./start.sh: line 5: read: read error: 0: Input/output error
+
+./start.sh: line 4: ��用户输入密码，且隐藏输入内容: command not found
+./start.sh: line 4: ��用户输入密码，且隐藏输入内容: command not found
+./start.sh: line 5: read: read error: 0: Input/output error
+
+./start.sh: line 5: read: read error: 0: Input/output error
+
+./start.sh: line 4: ��用户输入密码，且隐藏输入内容: command not found
+./start.sh: line 5: read: read error: 0: Input/output error
+
+Enter password: 
+Enter password: 
+Enter password: 
+
+Password: 
+
+
+Password: 
+
+Enter password: 
+
+Enter password: 
+
+Password: 
+
+Enter password: 
+
+Password: 
+
+Password: 
+
+Enter password: 
+
+Password: 
+
+Enter password: 
+
+Password: 
+
+
+Password: 
+
+Enter password: 
+
+Password: 
+
