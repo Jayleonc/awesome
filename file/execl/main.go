@@ -35,7 +35,7 @@ func main() {
 	//fmt.Println("请输入 Json 数据：")
 	//fmt.Scan(&JsonStr)
 
-	JsonStr = "  {\n  \"ylgy\": \"游乐公园（个）\",\n  \"ylgymj\": \"游乐公园面积（公顷）\",\n  \"kdgy\": \"口袋公园（个）\",\n  \"kdgymj\": \"口袋公园面积（公顷）\",\n  \"path\": \"路径\",\n  \"pathName\": \"路径层级名称\",\n  \"gymj\": \"公园面积\"\n}"
+	JsonStr = "{\n    \"non_compliant_projects_count\": \"整治不符合要求的景观照明项目数量（项）\",\n    \"projects_over_50_million\": \"超5000万的景观照明项目数量及总投资额（项、万元）\",\n    \"new_intelligent_posts_count\": \"新建智慧多功能灯杆数量（基）\",\n    \"lighting_digitalization_system\": \"是否建成照明数字化系统\",\n    \"urban_lighting_regulations\": \"是否编制城市照明管理办法\",\n    \"urban_lighting_special_plan\": \"是否编制城市照明专项规划\",\n    \"single_lamp_maintenance_fee\": \"单灯维护费（元）\",\n    \"safety_inspection_frequency\": \"安全隐患定期排查次数（次/平均每月）\",\n    \"deleted\": \"删除标识（0: 正常, 1: 删除）\",\n    \"created_by\": \"创建人\",\n    \"created_time\": \"创建时间\",\n    \"updated_by\": \"更新人\",\n    \"updated_time\": \"更新时间\"\n  }"
 
 	fmt.Println("请输入文件名称：")
 	fmt.Scan(&FileName)
